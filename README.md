@@ -1,29 +1,23 @@
-# SMARTLAMP
-
-Final Project for BEEC.
+# SMARTLAMP / Proteus Simulation
 
 ## Overview
-SMARTLAMP is a smart lighting project (hardware + firmware) designed as a final project for BEEC.
+This project represents a Proteus-based simulation for the BEEC final project.
 
-## Features
-- Smart lamp control (on/off)
-- Extendable for automation and sensors
+## What’s Included
+- Proteus project/schematic placeholders.
 
-## Repository structure
-- `README.md` – Project documentation
+## How to Open in Proteus
+1. Open Proteus.
+2. Navigate to the project file.
+3. Select the schematic or PCB layout.
 
-## Getting started
-1. Clone the repository
-   ```bash
-   git clone https://github.com/gamana29/SMARTLAMP.git
-   cd SMARTLAMP
-   ```
-2. Open the project files in your preferred IDE/tooling.
+## How to Run Simulation
+- Click on the 'Run' button in Proteus.
+- Observe the simulation outputs.
 
-## Notes
-If you want, tell me:
-- the microcontroller used (e.g., Arduino/ESP32/etc.)
-- how the lamp is controlled (relay/MOSFET)
-- required libraries and wiring
+## Notes/Troubleshooting
+- Ensure all components are properly placed.
+- Check for any connection issues.
 
-…and I’ll update this README with accurate setup, wiring, and usage instructions.
+## License
+- [Placeholder for license information]
