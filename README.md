@@ -19,5 +19,3 @@ This project represents a Proteus-based simulation for the BEEC final project.
 - Ensure all components are properly placed.
 - Check for any connection issues.
 
-## License
-- [Placeholder for license information]
